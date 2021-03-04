@@ -8,5 +8,6 @@ class FeatherIconData extends IconData {
           codePoint,
           fontFamily: "FeatherIcons",
           fontPackage: "flutter_feather_icons",
+          matchTextDirection: true,
         );
 }
